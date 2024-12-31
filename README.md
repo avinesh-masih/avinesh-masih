@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile! 👋
 
-Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics and digital marketing professional. With expertise in Python, SQL, machine learning, and AWS-based data processing, I thrive on solving complex problems and delivering impactful solutions. I'm skilled at leveraging tools like Microsoft Excel, Power BI, and Canva to create actionable insights and effective marketing strategies. My proficiency in statistical analysis, SEO, and financial services is complemented by a strong foundation in digital transformation and business growth strategies.
+Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics and digital marketing professional. With expertise in Python, SQL, machine learning, and AWS-based data processing, I thrive on solving complex problems and delivering impactful solutions. I'm skilled at leveraging tools like Microsoft Excel, Power BI, and Canva to create actionable insights and effective marketing strategies. A strong foundation in digital transformation and business growth strategies complements my proficiency in statistical analysis, SEO, and financial services.
 ### **🖥️ Technical Skills**  
 
 #### **Programming Languages**  
@@ -81,20 +81,6 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 
 ---
 
-### 🖼️ Profile Picture & Favicon Icon
-![Profile Picture](https://via.placeholder.com/150.png?text=Your+Picture+Here)
-
-#### Favicon
-Add this favicon to your GitHub profile links:
-![Favicon](https://via.placeholder.com/16.png?text=F)
-
----
-
-### 📦 Icon & Logo Packs
-Find a curated set of icons and logo packs here: [Download Icon Pack](#). (Add the actual folder link or zip file later.)
-
----
-
 ### 🏆 Achievements
 - Recognized for creating an efficient ETL pipeline using AWS services.
 - Increased sales leads for a small business by 20% through targeted marketing strategies.
@@ -104,8 +90,7 @@ Find a curated set of icons and logo packs here: [Download Icon Pack](#). (Add t
 ### 📝 Contact Me
 Feel free to connect with me via:
 - **Email:** [skmasih11@gmail.com](mailto:skmasih11@gmail.com)  
-- **LinkedIn:** [Your LinkedIn Profile](#)  
-- **Website/Portfolio:** [Your Website Here](#)
+- **LinkedIn:** [avineshlko](https://www.linkedin.com/in/avineshlko)
 
 Thank you for visiting my GitHub profile! Let's build something amazing together. 🚀
 
