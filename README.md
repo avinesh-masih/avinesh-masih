@@ -1,4 +1,4 @@
-![GitHub Banner](skills_ico/banner.png)
+![GitHub Banner]()
 
 ## Welcome to My GitHub Profile! 👋
 
