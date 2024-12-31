@@ -8,7 +8,7 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 #### **Programming Languages**  
 - Python
 - HTML
-- CSS  
+- CSS
 
 #### **Database Management**  
 - SQL (MySQL)  
@@ -40,7 +40,9 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 - Data Cleaning and Validation  
 - Web APIs and Basic Web Application Architecture  
 - Data Storage and ETL Pipelines on AWS  
-- Statistical and Machine Learning-based Decision Making  
+- Statistical and Machine Learning-based Decision Making
+- Numpy
+- Pandas
 
 ---  
 
