@@ -90,7 +90,7 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 ### 📝 Contact Me
 Feel free to connect with me via:
 - **Email:** [skmasih11@gmail.com](mailto:skmasih11@gmail.com)  
-- **LinkedIn:** [avineshlko](https://www.linkedin.com/in/avineshlko)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/avineshlko/" target="_blank" rel="noopener noreferrer">avineshlko</a>
 
 Thank you for visiting my GitHub profile! Let's build something amazing together. 🚀
 
