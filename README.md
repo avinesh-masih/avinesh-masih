@@ -9,8 +9,6 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 - Python 
 - HTML
 - CSS
-<p></p><a href="https://www.python.org/" target="blank" rel="noreferrer"> <img src="skills_ico/python.svg" alt="aws" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="skills_ico/html5.svg" alt="html" width="40" height="40"/> </a><a href="" target="_blank" rel="noreferrer"> <img src="skills_ico/css3.svg" alt="css" width="40" height="40"/></a>
-
 
 #### **Database Management**  
 - SQL (MySQL)  
