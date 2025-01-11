@@ -13,7 +13,7 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 - HTML
 - CSS
 
-#### **Database Management**  
+#### **Database Management**  <p><a href="https://www.buymeacoffee.com/avineshlko"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avineshlko" /></a></p>
 - SQL (MySQL)  
 - NoSQL (MongoDB)  
 
