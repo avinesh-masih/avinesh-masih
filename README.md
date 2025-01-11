@@ -3,6 +3,12 @@
 ## Welcome to My GitHub Profile! 👋
 
 Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics and digital marketing professional. With expertise in Python, SQL, machine learning, and AWS-based data processing, I thrive on solving complex problems and delivering impactful solutions. I'm skilled at leveraging tools like Microsoft Excel, Power BI, and Canva to create actionable insights and effective marketing strategies. A strong foundation in digital transformation and business growth strategies complements my proficiency in statistical analysis, SEO, and financial services.
+
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinesh-masih&show_icons=true&locale=en&layout=compact" alt="avinesh-masih" /></p><br><br><br><br><br><br><br><br>
+
+---
+
 ### **🖥️ Technical Skills**  
 
 #### **Programming Languages**  
@@ -97,4 +103,3 @@ Feel free to connect with me via:
 
 ---
 Thank you for visiting my GitHub profile! Let's build something amazing together. 🚀
-
