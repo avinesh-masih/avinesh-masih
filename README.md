@@ -1,15 +1,12 @@
 ![Banner](banner.png)
 
-## Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile! 👋<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinesh-masih&label=Profile%20views&color=0e75b6&style=flat" alt="avinesh-masih" /> </p>
 
 Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics and digital marketing professional. With expertise in Python, SQL, machine learning, and AWS-based data processing, I thrive on solving complex problems and delivering impactful solutions. I'm skilled at leveraging tools like Microsoft Excel, Power BI, and Canva to create actionable insights and effective marketing strategies. A strong foundation in digital transformation and business growth strategies complements my proficiency in statistical analysis, SEO, and financial services.
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinesh-masih&show_icons=true&locale=en&layout=compact" alt="avinesh-masih" /></p><br><br><br><br><br><br><br><br>
 
----
-
-### **🖥️ Technical Skills**  
+### **🖥️ Technical Skills**  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinesh-masih&show_icons=true&locale=en&layout=compact" alt="avinesh-masih" /></p>
 
 #### **Programming Languages**  
 - Python 
