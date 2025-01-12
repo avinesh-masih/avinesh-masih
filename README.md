@@ -82,7 +82,7 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 - **[Airline Data Analysis (AWS):](#)** - Processed and visualized operational data to optimize flight schedules.
 - **[Superstore Dashboard (Power BI):](#)** - Created a comprehensive dashboard for analyzing sales trends and business growth opportunities.
 - **[Census Data Analysis (SQL):](#)** - Explored demographic factors affecting living standards in the U.S.
-- **[Excel Data Loader with Pandas](#)** - A Python script that reads Excel files and converts them into structured Pandas DataFrames, enabling seamless data analysis and integration into workflows.
+- **[Excel Data Loader with Pandas](https://github.com/avinesh-masih/Reads-the-Excel-file-and-returns-it-as-a-pandas-DataFrame)** - A Python script that reads Excel files and converts them into structured Pandas DataFrames, enabling seamless data analysis and integration into workflows.
 
 ---
 
