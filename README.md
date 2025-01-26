@@ -5,75 +5,21 @@
 Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics and digital marketing professional. With expertise in Python, SQL, machine learning, and AWS-based data processing, I thrive on solving complex problems and delivering impactful solutions. I'm skilled at leveraging tools like Microsoft Excel, Power BI, and Canva to create actionable insights and effective marketing strategies. A strong foundation in digital transformation and business growth strategies complements my proficiency in statistical analysis, SEO, and financial services.
 
 ---
+### 🧑‍💻 Skills 
 
-### **🖥️ Technical Skills**  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=avinesh-masih&show_icons=true&locale=en&layout=compact" alt="avinesh-masih" /></p>
 
-#### **Programming Languages**  
-- Python 
-- HTML
-- CSS
-
-#### **Database Management**  
-- SQL (MySQL)  
-- NoSQL (MongoDB)  
-
-#### **Data Analytics**  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- Advanced Statistics and Statistical Concepts  
-
-#### **Machine Learning**  
-- Regression Models  
-- Support Vector Machines (SVM)  
-- Clustering Algorithms  
-- Decision Trees and Ensemble Techniques  
-- Bagging and Boosting Techniques  
-- Time Series Data Analysis  
-
-#### **Data Tools**  
-- Microsoft Excel  
-- Microsoft Power BI  
-- AWS Services (Kinesis, S3, Lambda, Glue, EMR, Redshift, QuickSight)  
-
-#### **Visualization and Reporting**  
-- Power BI (Charts, Custom Visuals, DAX Functions, Dashboards)  
-- AWS QuickSight  
-
-#### **Other Technical Skills**  
-- Data Cleaning and Validation  
-- Web APIs and Basic Web Application Architecture  
-- Data Storage and ETL Pipelines on AWS  
-- Statistical and Machine Learning-based Decision Making
-- Numpy
-- Pandas
-
----  
-
-### **📈 Business & Marketing Skills**  
-- Search Engine Optimization (SEO)  
-- Digital Marketing  
-- Business Growth Strategies  
-- Growth Strategies  
-- Social Media Marketing  
-
----  
-
-### **📊 Financial & Management Skills**  
-- Financial Services  
-- Tally ERP  
-- Goods and Services Tax (GST)  
-- Small Business Financial Management  
-- Account Management  
-- Data Management  
-
----  
-
-### **📎 Tools & General Skills**  
-- Microsoft Office (Excel, Word, PowerPoint)  
-- Canva  
-- Easily Adaptable  
-- Research Skills  
-- Statistical Analysis  
+| **Category**                     | **Skills**                                                                                                                                                                                                                                                                                                   |
+|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming Languages**        | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)         |
+| **Database Management**          | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)                                                                                                 |
+| **Data Analytics**               | ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-ffcc00?style=for-the-badge)  ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2DBE60?style=for-the-badge)  ![Statistics](https://img.shields.io/badge/Statistics-A12312?style=for-the-badge)     |
+| **Machine Learning**             | ![Regression Models](https://img.shields.io/badge/Regression%20Models-0176C2?style=for-the-badge)  ![Support Vector Machines](https://img.shields.io/badge/Support%20Vector%20Machines-00C4FF?style=for-the-badge)  ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-8E44AD?style=for-the-badge) |
+| **Data Tools**                   | ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+| **Visualization & Reporting**    | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![AWS QuickSight](https://img.shields.io/badge/AWS%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)                                                                   |
+| **Other Technical Skills**       | ![Web APIs](https://img.shields.io/badge/Web%20APIs-1A237E?style=for-the-badge)  ![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-009688?style=for-the-badge)  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)                            |
+| **Business & Marketing Skills**  | ![SEO](https://img.shields.io/badge/SEO-FF9900?style=for-the-badge)  ![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-3b5998?style=for-the-badge)  ![Growth Strategies](https://img.shields.io/badge/Growth%20Strategies-2C3333?style=for-the-badge)                                           |
+| **Financial & Management Skills**| ![Financial Services](https://img.shields.io/badge/Financial%20Services-34495E?style=for-the-badge)  ![Tally ERP](https://img.shields.io/badge/Tally%20ERP-7DCEA0?style=for-the-badge)  ![Goods and Services Tax](https://img.shields.io/badge/GST-FF7F50?style=for-the-badge)                                 |
+| **Tools & General Skills**       | ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  ![Adaptable](https://img.shields.io/badge/Easily%20Adaptable-8E44AD?style=for-the-badge) |
 
 ---
 
@@ -94,9 +40,8 @@ Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics a
 
 ### 📝 Contact Me
 Feel free to connect with me via:
-- **Portfolio:** [AVINESH MASIH](https://avinesh-masih.github.io/)
-- **Email:** [skmasih11@gmail.com](mailto:skmasih11@gmail.com)  
-- **LinkedIn:** [avineshlko](https://www.linkedin.com/in/avineshlko/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avineshlko/)[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://avinesh-masih.github.io/)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmasih11@gmail.com)
 
 ---
-Thank you for visiting my GitHub profile! Let's build something amazing together. 🚀
+Thank you for visiting my GitHub profile! Let's build something amazing together. 🚀 
