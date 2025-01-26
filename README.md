@@ -1,7 +1,7 @@
 ![Banner](banner.png)
 
-## Welcome to My GitHub Profile! 👋<p><a href="https://www.buymeacoffee.com/avineshlko"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="avineshlko" /></a></p><p align="left"> <img src="https://komarev.com/ghpvc/?username=avinesh-masih&label=Profile%20views&color=green&style=flat" alt="avinesh-masih" /> </p>
-
+## Welcome to My GitHub Profile! 👋<p align="left"> <img src="https://komarev.com/ghpvc/?username=avinesh-masih&label=Profile%20views&color=green&style=flat" alt="avinesh-masih" /></p>
+<p align="left"><a href="https://paypal.me/AVINESHMASIH" target="_blank"><img src="https://img.shields.io/badge/PayPal-009CDE?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/></a><a href="https://buymeacoffee.com/avineshlko" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F5DD64?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a></p>
 Hi there! I'm AVINESH MASIH , a passionate and results-oriented data analytics and digital marketing professional. With expertise in Python, SQL, machine learning, and AWS-based data processing, I thrive on solving complex problems and delivering impactful solutions. I'm skilled at leveraging tools like Microsoft Excel, Power BI, and Canva to create actionable insights and effective marketing strategies. A strong foundation in digital transformation and business growth strategies complements my proficiency in statistical analysis, SEO, and financial services.
 
 ---
