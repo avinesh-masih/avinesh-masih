@@ -53,3 +53,8 @@ Feel free to connect with me via:
 
 ---
 Thank you for visiting my GitHub profile! Let's build something amazing together. 🚀 
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical) ![Avinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical)
+
