@@ -63,5 +63,12 @@ Feel free to connect with me via:
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical) ![Avinesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical)
+<!-- Footer Image -->
+![Git Banner](assets/git_banner.gif)
+
+---
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical" alt="Avinesh's GitHub stats" />
+</div>
 
