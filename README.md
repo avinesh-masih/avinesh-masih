@@ -64,7 +64,7 @@ Feel free to connect with me via:
 ---
 
 <!-- Footer Image -->
-![Git Banner](assets/git_banner.gif)
+![Footer](assets/git_banner.gif)
 
 ---
 <div align="center">
