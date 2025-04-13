@@ -64,13 +64,17 @@ Feel free to connect with me via:
 </p>
 
 ---
-
-<!-- Footer Image -->
-![Footer](assets/git_banner.gif)
-
----
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical" alt="Avinesh's GitHub stats" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical" alt="Avinesh's GitHub Stats" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical" alt="Top Languages" />
+
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+
 </div>
+
 
