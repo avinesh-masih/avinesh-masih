@@ -1,11 +1,13 @@
-<p align="center"><a href="https://paypal.me/AVINESHMASIH" target="_blank">  <img src="https://img.shields.io/badge/PayPal-009CDE?style=flat&logo=paypal&logoColor=white" alt="PayPal"/></a>  <img src="https://komarev.com/ghpvc/?username=avinesh-masih&label=Profile%20views&color=green&style=flat" alt="avinesh-masih" />  <a href="https://buymeacoffee.com/avineshlko" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F5DD64?style=flat&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a></p>
-
-![Banner](banner.png)
+<h1 align="center">Hi 👋, I'm AVINESH MASIH</h1>
 <p align="center">
   <a href="https://github.com/avinesh-masih">
     <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%9A%80+Welcome+to+My+GitHub+Profile!+%F0%9F%91%8B&font=Fira%20Code&center=true&width=600&height=50&color=ceff18&vCenter=true&pause=1000&size=24" />
   </a>
 </p>
+
+<p align="center"><a href="https://paypal.me/AVINESHMASIH" target="_blank">  <img src="https://img.shields.io/badge/PayPal-009CDE?style=flat&logo=paypal&logoColor=white" alt="PayPal"/></a>  <img src="https://komarev.com/ghpvc/?username=avinesh-masih&label=Profile%20views&color=green&style=flat" alt="avinesh-masih" />  <a href="https://buymeacoffee.com/avineshlko" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F5DD64?style=flat&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/></a></p>
+
+![Banner](banner.png)
 
 ---
 
