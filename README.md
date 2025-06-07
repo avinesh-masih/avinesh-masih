@@ -86,7 +86,7 @@ Feel free to connect with me via:
   </tr>
   <tr>
     <td colspan="2" align="center" style="border:3px solid #444;">
-      <img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" style="border:3px solid #fff; border-radius:8px;" />
+      <img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&row=1&column=6" alt="GitHub Trophy" style="border:3px solid #fff; border-radius:8px;" />
     </td>
   </tr>
 </table>
