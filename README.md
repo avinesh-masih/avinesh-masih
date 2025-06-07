@@ -77,11 +77,8 @@ Feel free to connect with me via:
     </td>
   </tr>
   <tr>
-    <td style="border:3px solid #444;">
+    <td colspan="2" align="center" style="border:3px solid #444;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinesh-masih&theme=radical" alt="GitHub Streak" height="180em" />
-    </td>
-    <td style="border:3px solid #444;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinesh-masih&theme=radical" alt="Summary Stats" height="180em" style="border:3px solid #fff; border-radius:8px;" />
     </td>
   </tr>
   <tr>
