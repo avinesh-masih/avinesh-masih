@@ -81,12 +81,12 @@ Feel free to connect with me via:
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinesh-masih&theme=radical" alt="GitHub Streak" height="180em" />
     </td>
     <td style="border:3px solid #444;">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinesh-masih&theme=radical" alt="Summary Stats" height="180em" />
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avinesh-masih&theme=radical" alt="Summary Stats" height="180em" style="border:3px solid #fff; border-radius:8px;" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="border:3px solid #444;">
-      <img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophy" style="border:3px solid #fff; border-radius:8px;" />
     </td>
   </tr>
 </table>
