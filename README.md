@@ -67,6 +67,8 @@ Feel free to connect with me via:
 <!-- GitHub Stats in Grid -->
 <div align="center">
 
+<h2>Statistics</h2>
+
 <table>
   <tr>
     <td style="border:3px solid #444;">
