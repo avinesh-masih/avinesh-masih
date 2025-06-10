@@ -69,26 +69,12 @@ Feel free to connect with me via:
 
 <h2>Statistics</h2>
 
-<table>
-  <tr>
-    <td style="border:3px solid #444;">
-      <img src="https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical" alt="Avinesh's GitHub Stats" height="180em" />
-    </td>
-    <td style="border:3px solid #444;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical" alt="Top Languages" height="180em" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border:3px solid #444;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinesh-masih&theme=radical" alt="GitHub Streak" height="180em" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border:3px solid #444;">
-      <img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&row=1&column=6" alt="GitHub Trophy" style="border:3px solid #fff; border-radius:8px;" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=avinesh-masih&show_icons=true&theme=radical" alt="Avinesh's GitHub Stats" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinesh-masih&layout=compact&theme=radical" alt="Top Languages" height="180em" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avinesh-masih&theme=radical" alt="GitHub Streak" height="180em" />
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=avinesh-masih&theme=radical&row=1&column=6" alt="GitHub Trophy" style="border:3px solid #fff; border-radius:8px;" />
 
 </div>
 
