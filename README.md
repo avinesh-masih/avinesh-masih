@@ -40,7 +40,7 @@ I love diving into **Python, SQL, and machine learning**, crafting **AWS-based d
 
 ### 🌟 Featured Projects
 - **[Employee Report Generation System](https://github.com/avinesh-masih/employee-report-generator)** - A Python-based tool that reads employee and purchase data from Excel, generates personalized PDF reports using FPDF, and organizes them into folders. Includes a progress bar for tracking report generation.
-- **[Cryptocurrency Liquidity Prediction (ML + Streamlit)](https://crypto-liquidity-prediction.streamlit.app/)** - Built a regression-based ML pipeline and deployed a Streamlit app to forecast crypto liquidity using historical price data, trading volume, and volatility indicators to enable early risk detection and promote market stability.
+- **[Cryptocurrency Liquidity Prediction (ML + Streamlit)](https://github.com/avinesh-masih/Crypto-Liquidity-Prediction)** - Built a regression-based ML pipeline and deployed a Streamlit app to forecast crypto liquidity using historical price data, trading volume, and volatility indicators to enable early risk detection and promote market stability.
 - **[Supply Chain Performance Analytics (Tableau)](https://github.com/avinesh-masih/Data-Analytics-Assignment/tree/main/Supply-Chain-Performance-Analytics-for-GlamourGlow-Cosmetics)** - Analyzed GlamourGlow’s supply chain inefficiencies using interactive dashboards to optimize inventory, supplier reliability, and logistics.
 - **[Olympic Medal Trends Analysis (Tableau)](https://github.com/avinesh-masih/Data-Analytics-Assignment/tree/main/Analysis-of-Olympic-Medal-Trends)** - Visualized 100+ years of Olympic history to uncover trends in medal distributions, gender participation, and athlete dominance for AthletiCore Analytics and the IOC.
 
